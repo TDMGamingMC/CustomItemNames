@@ -1,5 +1,5 @@
 <?php
-namespace CIN;
+namespace CustomItemNames;
 
 use pocketmine\item\Item;
 use pocketmine\Player;
