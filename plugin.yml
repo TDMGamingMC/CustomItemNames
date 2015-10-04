@@ -1,5 +1,5 @@
 name: CustomItemNames
-main: CIN\Main
+main: CIN
 author: SavionLegendZzz
 api: [1.0.0]
 version: "1.0"
